@@ -1,1 +1,1 @@
-# odin-recipes
+This was my first project on Odin and I had a lot of fun! I learned how to setup a html boilerplate, list, links, images and committing to git.
